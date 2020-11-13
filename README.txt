@@ -1,5 +1,8 @@
 ---- Information ----
 
+This is an ongoing project and elements of the code and organisation of the notebooks and file structures are not finished.
+
+
 Instructions
 
 The Land Registry Data Analysis notebook can be run and will read the correct csv files, but will not give a full overview of the data due to file limits on individual files.
