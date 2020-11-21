@@ -1,6 +1,6 @@
 ---- Information ----
 
-This is an ongoing project and elements of the code and organisation of the notebooks and file structures are not finished.
+This is an ongoing project and elements of the code and organisation of the notebooks files / folders are not finished.
 
 
 Instructions
