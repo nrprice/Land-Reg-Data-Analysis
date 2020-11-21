@@ -1,0 +1,17 @@
+
+.DS_Store
+.idea/.DS_Store
+__pycache__/Read.cpython-37.pyc
+CSVs/.ipynb_checkpoints/interactive test-checkpoint.ipynb
+CSVs/National_Statistics_Postcode_Lookup_UK.csv
+CSVs/pp-complete.csv
+Notebooks/.DS_Store
+Notebooks/.ipynb_checkpoints/Land Registry Data Analysis-checkpoint.ipynb
+Notebooks/.ipynb_checkpoints/Read & Filter-checkpoint.ipynb
+Notebooks/.ipynb_checkpoints/Testing Rolling Avgs-checkpoint.ipynb
+Notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+Notebooks/.ipynb_checkpoints/Untitled1-checkpoint.ipynb
+Text Files/Land Reg - New-Copy1.ipynb
+Text Files/Land Reg.ipynb
+Text Files/Land Registration.ipynb
+Text Files/Untitled.ipynb
