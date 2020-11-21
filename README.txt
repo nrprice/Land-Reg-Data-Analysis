@@ -17,6 +17,6 @@ http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp
 Postcode Information
 https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.csv?accessType=DOWNLOAD
 
-To run the project, open and run the 'Land Registry Data Analysis.ipynb' notebook. 
+To run the project, open and run the 'Land Registry Data Analysis.ipynb' notebook from the Notebooks folder.
 
 
